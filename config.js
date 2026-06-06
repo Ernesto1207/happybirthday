@@ -54,6 +54,10 @@ const CONFIG = {
   // Add, remove, duplicate, or reorder as you wish!
   sections: [
     {
+      type: "birthday-countdown",
+      title: "Tiempo restante para el gran día 🎂",
+    },
+    {
       type: "greeting",
       title: "Hola, Miss!",
       // subtitle:
